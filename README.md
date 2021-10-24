@@ -4,7 +4,7 @@
 
 A rest based application to build block chain as proof of concept
 
-# Run
+## Run
 
 `python blockchain.py`
 
